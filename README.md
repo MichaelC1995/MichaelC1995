@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Developer
 ------------------
 
-Motivated and adaptable developer currently transitioning into the tech industry after self-paced and structured learning. Recently completed coursework at Frontend Simplified in front-end and back-end development as well as completing internships for Frontend Simplified and Skinstric A.I., gaining hands-on experience with tools such as HTML, CSS, Tailwind, Typescript, JavaScript, React, NextJs, Figma, Firebase, MongoDb and Github. Eager to bring strong problem-solving skills, a passion for technology, and a commitment to continuous learning. Looking to contribute to a team where I can grow, apply my new skills, and make a meaningful impact.
+Motivated and adaptable developer. Recently coursework at Frontend Simplified in front-end and back-end development as well as completing internships for Frontend Simplified and Skinstric A.I., gaining hands-on experience with tools such as HTML, CSS, Tailwind, Typescript, JavaScript, React, NextJs, Figma, Firebase, MongoDb and Github. Eager to bring strong problem-solving skills, a passion for technology, and a commitment to continuous learning. Looking to contribute to a team where I can grow, apply my new skills, and make a meaningful impact.
 
 ### Skills
 
